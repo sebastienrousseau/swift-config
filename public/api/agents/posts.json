@@ -1,5 +1,14 @@
 [
   {
+    "date": "2026-09-09",
+    "description": "Shareable Swift configuration providing standardized SwiftLint and SwiftFormat rules adhering to modern 2026 standards.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "@sebastienrousseau/swift-config — Shareable Swift configuration standards for SwiftLint and SwiftFormat.",
+    "url": "https://sebastienrousseau.com/swift-config/index.html",
+    "wordCount": 162
+  },
+  {
     "date": "",
     "description": "How to install and set up @sebastienrousseau/swift-config.",
     "locale": "en-GB",

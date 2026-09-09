@@ -1,6 +1,6 @@
 {
   "background_color": "#ffffff",
-  "description": "How to install and set up @sebastienrousseau/swift-config.",
+  "description": "Shareable Swift configuration providing standardized SwiftLint and SwiftFormat rules adhering to modern 2026 standards.",
   "display": "standalone",
   "name": "swift-config",
   "orientation": "portrait-primary",
