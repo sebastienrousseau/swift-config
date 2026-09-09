@@ -1,0 +1,65 @@
+{
+  "feed_url": "https://sebastienrousseau.com/swift-config/feed.json",
+  "home_page_url": "https://sebastienrousseau.com/swift-config/",
+  "items": [
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to install and set up @sebastienrousseau/swift-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/swift-config/installation/",
+      "tags": [],
+      "title": "Installation — @sebastienrousseau/swift-config",
+      "url": "https://sebastienrousseau.com/swift-config/installation/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Model Context Protocol configuration for @sebastienrousseau/swift-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/swift-config/mcp/",
+      "tags": [],
+      "title": "Model Context Protocol (MCP) — @sebastienrousseau/swift-config",
+      "url": "https://sebastienrousseau.com/swift-config/mcp/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "Reference specifications and options for @sebastienrousseau/swift-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/swift-config/reference/",
+      "tags": [],
+      "title": "Reference — @sebastienrousseau/swift-config",
+      "url": "https://sebastienrousseau.com/swift-config/reference/"
+    },
+    {
+      "authors": [
+        {
+          "name": "Unknown"
+        }
+      ],
+      "content_html": "How to use and configure @sebastienrousseau/swift-config.",
+      "date_modified": "",
+      "date_published": "",
+      "id": "https://sebastienrousseau.com/swift-config/usage/",
+      "tags": [],
+      "title": "Usage — @sebastienrousseau/swift-config",
+      "url": "https://sebastienrousseau.com/swift-config/usage/"
+    }
+  ],
+  "language": "en-GB",
+  "title": "swift-config",
+  "version": "https://jsonfeed.org/version/1.1"
+}
