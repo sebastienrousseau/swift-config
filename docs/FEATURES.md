@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. .swiftlint.yml
+
 Hardened SwiftLint configuration with opt-in safety rules prohibiting force unwrapping and implicit optionals. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. .swiftformat
+
 Deterministic SwiftFormat ruleset standardizing indentation, spacing, and header comments. Designed to guarantee deterministic behavior across all development and continuous integration environments.
