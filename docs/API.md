@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable Swift configuration standards providing strict SwiftLint rules and deterministic SwiftFormat presets.
 
 ---
@@ -22,11 +23,13 @@ Shareable Swift configuration standards providing strict SwiftLint rules and det
 ## Feature & Property Reference
 
 ### 1. .swiftlint.yml
+
 - **Description**: Hardened SwiftLint configuration with opt-in safety rules prohibiting force unwrapping and implicit optionals.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. .swiftformat
+
 - **Description**: Deterministic SwiftFormat ruleset standardizing indentation, spacing, and header comments.
 - **Scope**: Production & Development
 - **Status**: Stable & Active
