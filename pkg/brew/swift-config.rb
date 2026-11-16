@@ -6,7 +6,7 @@
 class SwiftConfig < Formula
   desc "Shareable Swift configuration providing standardized SwiftLint and SwiftFormat rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/swift-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/swift-config/-/swift-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/swift-config/-/swift-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
